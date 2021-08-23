@@ -1,7 +1,7 @@
 
 export default function Posts () {
 
-    const posts = [
+  const posts = [
         {
             usuario: "meowed",
             conteudo: "assets/img/gato-telefone.svg",

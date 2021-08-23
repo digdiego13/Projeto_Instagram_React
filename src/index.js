@@ -1,7 +1,7 @@
 import ReactDOM  from "react-dom";
 import Topo from "./topo";
 import Corpo from "./corpo/corpo/corpo";
-
+import Mobile from "./mobile";
 
 function App() {
 
@@ -9,6 +9,7 @@ function App() {
        <div>
             <Topo />
             <Corpo />
+            <Mobile />
         </div> 
 
     )
