@@ -5,7 +5,7 @@ import CopyRight from "./CopyRight"
 function Titulo () {
     return (
         <div class="titulo">
-             Sugestões para você
+            Sugestões para você
             <div>Ver tudo</div>
         </div>
 

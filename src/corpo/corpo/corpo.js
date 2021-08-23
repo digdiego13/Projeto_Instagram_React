@@ -23,13 +23,12 @@ function Direita () {
             <Sugestoes />
          </div>
      )
- }
+}
 
 
 
 
 export default function Corpo () {
-
     return (
         <div class="corpo"> 
             <Esquerda />
