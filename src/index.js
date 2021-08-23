@@ -1,10 +1,15 @@
 import ReactDOM  from "react-dom";
 import Topo from "./topo";
+import Corpo from "./corpo/corpo/corpo";
+
 
 function App() {
 
     return (
-        <Topo />
+       <div>
+            <Topo />
+            <Corpo />
+        </div> 
 
     )
 }
