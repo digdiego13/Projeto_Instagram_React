@@ -1,13 +1,13 @@
 
 
-
+import Posts from "./esquerda/posts/posts"
 import Stories from "./esquerda/stories/stories"
 
 function Esquerda () {
     return (
         <div class="esquerda">
             <Stories />
-            {/* <Posts /> */}
+            <Posts />
         </div>
         
     )
